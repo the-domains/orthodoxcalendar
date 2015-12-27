@@ -1,6 +1,6 @@
 name: OrthodoxCalendar
 favicon: null
-layout_spectrum: 0.052250096341595054
+layout_spectrum: 0.9027
 typography_spectrum: 0.8312762249261141
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#fdc42e'
-    - '#8d2d0c'
-    - '#000000'
-    - '#b68e1f'
+    - '#7d8d9d'
+    - '#010300'
+    - '#7a6b56'
+    - '#444442'
+    - '#b47b6a'
   brandStrength: 0.3125
   lightness: 0.1875
   saturation: 0.625
